@@ -1,0 +1,14 @@
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\bin\Debug\netcoreapp3.1\Composite Deseni.exe
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\bin\Debug\netcoreapp3.1\Composite Deseni.deps.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\bin\Debug\netcoreapp3.1\Composite Deseni.runtimeconfig.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\bin\Debug\netcoreapp3.1\Composite Deseni.runtimeconfig.dev.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\bin\Debug\netcoreapp3.1\Composite Deseni.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\bin\Debug\netcoreapp3.1\Composite Deseni.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\obj\Debug\netcoreapp3.1\Composite Deseni.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\obj\Debug\netcoreapp3.1\Composite Deseni.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\obj\Debug\netcoreapp3.1\Composite Deseni.AssemblyInfoInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\obj\Debug\netcoreapp3.1\Composite Deseni.AssemblyInfo.cs
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\obj\Debug\netcoreapp3.1\Composite Deseni.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\obj\Debug\netcoreapp3.1\Composite Deseni.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\obj\Debug\netcoreapp3.1\Composite Deseni.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Composite Deseni\obj\Debug\netcoreapp3.1\Composite Deseni.genruntimeconfig.cache
